@@ -40,7 +40,7 @@ gcc -Wall -o OpenMPConv openmp.c -fopenmp
 ```
 ## Run demos
 ### Step 1.  
-Rename image as 1.bmp, and put it in the same directory as executable file. The image cannot be compressed.You can download test image here:
+Rename image as 1.bmp, and put it in the same directory as executable file. The image cannot be compressed, which means, if the image is w * h * 3, its size should be (54 + w * h * 3) byte.  
 
 ### Step 2.
 Run program with passing thread(pthread OpenMP) / process(MPI) number. Here is a example that use 4 threads:  
@@ -76,5 +76,5 @@ And my PC.
 You can contact me by email hml0814@163.com   
 In fact, the code in this repository is the third of the four assignments in the course "principle and implementation of parallel programming" in the spring semester of 2020-2021 which implemented by myself. Because it took a lot of time to optimize the code, it's a pity not to share it.(Doge)  
 If you want to use the code here for academic using, please declare the reference in your paper and to your mentor.   
-The use in commercial work is granted if you inform me by email in advance. You DO NOT wait for my permission if you send the email to me.  
+The use in commercial work is granted if you inform me by email in advance. You DO NOT need to wait for my permission if you send the email to me.  
 Pull requestion is welcomed if you have performance optimization on this.    
