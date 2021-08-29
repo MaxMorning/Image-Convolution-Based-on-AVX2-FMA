@@ -75,6 +75,6 @@ And my PC.
 ## Postscripst
 You can contact me by email hml0814@163.com   
 In fact, the code in this repository is the third of the four assignments in the course "principle and implementation of parallel programming" in the spring semester of 2020-2021 which implemented by myself. Because it took a lot of time to optimize the code, it's a pity not to share it.(Doge)  
-If you want to use the code here for academic using, please declare the reference in your paper and to your mentor.   
+If you want to use the code here for academic using(Include but not limited to papers, presentation, , course design, course project), please declare the reference in your paper and to your mentor.   
 The use in commercial work is granted if you inform me by email in advance. You DO NOT need to wait for my permission if you send the email to me.  
 Pull requestion is welcomed if you have performance optimization on this.    
