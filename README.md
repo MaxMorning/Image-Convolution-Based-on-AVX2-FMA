@@ -68,7 +68,7 @@ Compiler: MPICC / GCC 10.2
 \* Convolute a 4096 * 2304 * 3 bmp file   
 \* the whole program running time, including loading image from disk and storing image to disk
 ## Acknowledgement
-My Course teacher: Profeccor Zhang  
+My Course teacher: Prof. Zhang  
 Course TA: Mr. Zhuang  
 Me: Mr. Han  
 And my PC.
